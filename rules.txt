@@ -1,3 +1,13 @@
 [AutoProxy 0.2.9]
-! test
-||example.com
+
+||youtube.com
+||artstation.com
+||rutracker.org
+||smartproxy.ru
+||google.com
+||notion.so
+||polymarket.com
+||spriters-resource.com
+||chatgpt.com
+||zerotier.com
+||garudalinux.org
