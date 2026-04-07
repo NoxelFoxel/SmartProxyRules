@@ -14,3 +14,8 @@
 ||sponsor.ajay.app
 ||ajay.app
 ||instagram.com
+||archive.org
+||microsoft.com
+||listenbrainz.org
+||immich.cloud
+||tiles.immich.cloud
